@@ -1,4 +1,4 @@
-# Gitify-Instruction
+# Gitify Instruction
 
 This is a small collection of what I've learned using Gitify for modx
 
@@ -25,3 +25,4 @@ All instructions are written in `Russian` language
 * [Возможные проблемы](problems.md)
 
 Все инструкции написаны на `Русском` языке
+
